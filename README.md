@@ -16,7 +16,7 @@ I'm an AI enthusiast specializing in Machine Learning, NLP, and Computer Vision,
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaki-pro&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-10&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me 
 [![Website](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/md.nahid.hossain.564923)
