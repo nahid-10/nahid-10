@@ -1,6 +1,6 @@
 # Hello, I'm Md Nahid Hossain 👋
 
-I'm an AI enthusiast specializing in Machine Learning, NLP, and Computer Vision, building intelligent, scalable, and data-driven applications.
+AI-Driven Problem Solver — Specializing in Data Analysis, NLP, and LLM Applications.
 
 ## 🛠️ Technologies & Tools
 
