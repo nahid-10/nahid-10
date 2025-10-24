@@ -1,6 +1,6 @@
 # Hello, I'm Md Nahid Hossain 👋
 
-AI-Driven Problem Solver — Specializing in Data Analysis,Web Scraping, NLP, and LLM Applications.
+AI-Driven Problem Solver — Specializing in Data Analysis, SQA , NLP, and LLM Applications.
 
 ## 🛠️ Technologies & Tools
 
