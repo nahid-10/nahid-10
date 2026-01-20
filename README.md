@@ -9,6 +9,7 @@ AI-Driven Problem Solver — Specializing in SQA, Data Analysis and LLM Applicat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQA](https://img.shields.io/badge/-SQA-3F51B5?style=flat&logo=checkmarx&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/-QA%20Testing-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-800080?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
