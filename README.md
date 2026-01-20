@@ -11,8 +11,7 @@ AI-Driven Problem Solver — Specializing in SQA, Data Analysis and LLM Applicat
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-800080?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white)
-![Spacy](https://img.shields.io/badge/-NLP-FF4081?style=flat&logo=spacy&logoColor=white)
+![SQA](https://img.shields.io/badge/-SQA-3F51B5?style=flat&logo=checkmarx&logoColor=white)
 
 ## 📈 GitHub Stats
 
