@@ -1,6 +1,6 @@
 # Hello, I'm Md Nahid Hossain 👋
 
-AI-Driven Problem Solver — Specializing in SQA, Data Analysis and LLM Applications.
+AI-Driven Problem Solver — Specializing in SQA, Cyber Security, Data Analysis and LLM Applications.
 
 ## 🛠️ Technologies & Tools
 
